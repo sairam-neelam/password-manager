@@ -1,0 +1,17 @@
+.no-passwords-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-passwords-image {
+  width: 200px;
+}
+
+.no-passwords-text {
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+}
